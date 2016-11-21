@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/ImanMh/node-es-latest/issues"
   },
-  "homepage": "https://github.com/ImanMh/node-es-latest#readme"
+  "homepage": "https://github.com/ImanMh/node-es-latest#readme",
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
