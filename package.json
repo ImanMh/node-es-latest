@@ -1,0 +1,25 @@
+{
+  "name": "node-es-latest",
+  "version": "1.0.0",
+  "description": "A simple es6 environment and build system for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ImanMh/node-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "node",
+    "javascript",
+    "babel"
+  ],
+  "author": "Iman Mohamadi <Iman@jsDecorator.com> (http://jsdecorator.com)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ImanMh/node-es-latest/issues"
+  },
+  "homepage": "https://github.com/ImanMh/node-es-latest#readme"
+}
