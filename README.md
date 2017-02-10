@@ -2,7 +2,7 @@
 A simple and fast **ES6** environment and build system for NodeJS
 
 ## Usage
-My recommendation is to use the Yoman generator that scaffolds this project for you with just a few questions. You can find more information about how to use it at [yo-es6](https://github.com/ImanMh/yo-es6). If you don't want to install Yo, You can start by downloading the latest stable release and work on it's ```src``` directory.
+My recommendation is to use the Yoman generator that scaffolds this project for you with just a few questions. You can find more information about how to use it at [yo-es-latest](https://github.com/ImanMh/yo-es-latest). If you don't want to install Yo, You can start by downloading the latest stable release and work on it's ```src``` directory.
 ### [Latest Release](https://api.github.com/repos/ImanMh/node-es-latest/zipball)
 
 ## About
