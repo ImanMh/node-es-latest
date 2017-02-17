@@ -23,4 +23,17 @@ You can transpile the project by running:
 npm run build
 ```
 
+## More commands
+If you want to transpile and run use:
+
+```
+npm start
+```
+
+If you wan t to transpile and run and reload every time you make a change use:
+
+```
+npm run watch
+```
+
 This will output your ```src``` directory to the ```dist```.
